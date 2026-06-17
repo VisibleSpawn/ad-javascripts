@@ -1,0 +1,9 @@
+title: Ad Scripts
+description: A collection of JavaScript utilities for managing adblock detection banners
+theme: jekyll-theme-cayman
+show_downloads: true
+github:
+  is_project_page: true
+  repository_url: https://github.com/VisibleSpawn/ad-javascripts
+  zip_url: https://github.com/VisibleSpawn/ad-javascripts/archive/main.zip
+  tar_url: https://github.com/VisibleSpawn/ad-javascripts/archive/main.tar.gz
